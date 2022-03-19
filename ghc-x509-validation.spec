@@ -6,7 +6,7 @@
 Summary:	X.509 Certificate and CRL validation
 Name:		ghc-%{pkgname}
 Version:	1.6.11
-Release:	1
+Release:	2
 License:	BSD
 Group:		Development/Languages
 #Source0Download: http://hackage.haskell.org/package/x509-validation
